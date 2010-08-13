@@ -1,0 +1,9 @@
+audio_device_state:1:My ALSA Device
+state: stop
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+playlist_begin
+playlist_end
