@@ -1,7 +1,3 @@
-" Maintainer:	Henrique C. Alves (hcarvalhoalves@gmail.com)
-" Version:      1.0
-" Last Change:  October 05 2008
-
 set background=dark
 
 hi clear
